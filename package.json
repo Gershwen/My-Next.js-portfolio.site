@@ -1,0 +1,22 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "My next.js portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "now-build": "next build"
+  },
+  "author": "Gershwen McPherson",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "5.1.3",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-bootstrap": "2.0.3",
+    "react-dom": "17.0.2"
+  }
+}
